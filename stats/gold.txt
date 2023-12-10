@@ -1,0 +1,7 @@
+
+
+Analyseresultaten voor gold:
+GER 1862.57
+STDEV: 0.0
+MinER: 1862.57
+MaxER: 1862.57
